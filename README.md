@@ -11,7 +11,7 @@ This exercise aimed to provide valuable, data-derived insights into sample Super
 
 <a id="data"></a>
 ### Data :books:
-The data was originally sourced from Tableau as "EU Superstore Sales." 
+The data was originally sourced from [Tableau](https://public.tableau.com/app/learn/sample-data) as "EU Superstore Sales." 
 
 The data consisted of three tables of Superstore information: Orders, Returns, and People. The analysis focuses on Orders only.
 
