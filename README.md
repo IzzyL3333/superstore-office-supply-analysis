@@ -1,5 +1,5 @@
 # Superstore Office Supplies Analysis 🛒
-This exercise aimed to provide valuable, data-derived insights into sample Superstore data. As a Data Scientist, I performed basic EDA and data analysis using fictitious Superstore data. 
+This exercise aimed to provide valuable, data-derived insights into sample Superstore data. As a Data Scientist, I performed basic EDA and data analysis using a sample of Superstore data. 
 
 ## Table of Contents
 - [Data](#data)
